@@ -8,6 +8,7 @@ example workflow:
 
 Example prompts CSV:
 <img width="1523" alt="Screen Shot 2024-02-27 at 11 08 39 pm" src="https://github.com/maracman/ComfyUI-SubjectStyle-CSV/assets/82516491/8192c565-63b1-45c7-b09b-7e225366d80c">
+Important: The CSV prompts file must be saved in the `csv_input` folder in the ComfyUI-SubjectStyle-CSV custom node folder and be named `prompt_csv.csv`. 
 
 CSV template looks like this:
 <img width="1562" alt="Screen Shot 2024-02-27 at 11 09 23 pm" src="https://github.com/maracman/ComfyUI-SubjectStyle-CSV/assets/82516491/837feb8a-8fc0-4a84-aad3-9d59e24fdc5f">
