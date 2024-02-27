@@ -3,7 +3,7 @@ Store a CSV of prompts where the style can change for each subject. The CSV node
 Example output:
 ![controlnet-examplex2](https://github.com/maracman/ComfyUI-SubjectStyle-CSV/assets/82516491/d5853944-56ad-4dbd-b70d-25aafa56cee9)
 
-example workflow:
+Example workflow (drag this into your Comfy UI):
 ![food-workflow-SDXL](https://github.com/maracman/ComfyUI-SubjectStyle-CSV/assets/82516491/82730b49-96b4-4bb7-af09-8c436347ec64)
 
 Example prompts CSV:
