@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-subjectstyle-csv"
+description = "Store a CSV of prompts where the style can change for each subject. The CSV node initialises with the column (style) and row (subject) names for easy interpretability."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/maracman/ComfyUI-SubjectStyle-CSV"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "maracman"
+DisplayName = "ComfyUI-SubjectStyle-CSV"
+Icon = ""
